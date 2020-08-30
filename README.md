@@ -1,3 +1,2 @@
-# GGT-und-KGV
-Das ist mein erster repository.
-Eine Datei Berechnet das GGT die ander Datei das KGV.
+# KGV
+Das ist mein erster repository. Diese Datei Berechnet Datei das KGV. Es ist PAP dabei sie wurde mit Visio erstellt.
